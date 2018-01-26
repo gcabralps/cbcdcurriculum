@@ -1,8 +1,8 @@
 # Career Development Curriculum  
 
-Career Development - IT Support  
+Career Development - Codebridge 
 
-Welcome to Career Development! Over the next 15 weeks, we will work together to help you build a solid and effective job search strategy. The key word is STRATEGY. We will research the industry, learn how to tailor resumes and cover letters to specific jobs, articulate the technical skills you've learned and maneuver the most difficult interview questions.  
+Welcome to Career Development! Over the next 6 weeks, we will discuss the foundations of career development. In addition, you will have the necessary tools to begin your job search. We will research the industry, learn how to tailor resumes and cover letters to specific jobs, articulate the technical skills you've learned and maneuver the most difficult interview questions.  
 
 We have a lot of work to do! But before we jump in, please familiarize yourself with the syllabus below. It is a roadmap for our time together and while there will be a few surprises along the way, the overall schedule will help you use your time efficiently. If you have any questions or concerns, please feel free to contact me.  
 
@@ -38,14 +38,12 @@ In addition to a general financial workshop that covers broader topics such as c
 If you are facing more pressing issues that fall outside of the financial or academic, our community navigator/social worker can meet with you to assess your needs and possible solutions.
   
 ### BUSINESS SOLUTIONS  
-The Business Solutions team works closely with employer partners to find employment opportunities (gigs, jobs, internships, etc.) for Per Scholas students. They also actively work in the market, spreading the word about our program and students by hosting events such as mock-interviews and site visits. As a student, you will likely interact with the team in two ways: by attending the corporate engagement events and as you get closer to graduation, through the Work Readiness Assessment. At Week 10, you will meet with members of the Business Solutions team, who will assess your Career Portal profile and your interviewing skills. As they work so closely with our employer partners, they have a keen sense of what employers are looking for and can add any finishing touches to your interview. As an alumni, you will be in close contact, reaching out to them and receiving notifications of new opportunities.  
+The Business Solutions team works closely with employer partners to find employment opportunities (gigs, jobs, internships, etc.) for Per Scholas students. They also actively work in the market, spreading the word about our program and students by hosting events such as mock-interviews and site visits. As a student, you will likely interact with the team in two ways: by attending the corporate engagement events and as you get closer to graduation, through the Work Readiness Assessment. At Week 6, you will meet with members of the Business Solutions team, who will assess your Career Portal profile and your interviewing skills. As they work so closely with our employer partners, they have a keen sense of what employers are looking for and can add any finishing touches to your interview. As an alumni, you will be in close contact, reaching out to them and receiving notifications of new opportunities.  
   
 ### ONE-ON-ONES AND ASSESSMENTS  
 After you've passed Zero-Tolerance, I will reach out to schedule a One-on-One with you. This is an opportunity for me to sense where you are in the course and address any individual questions you may have. It is also an opportunity for you to either Opt-In or Opt-Out of the course.  
 
-After our initial meeting, you can schedule a One-on-One with me directly via this [link](https://gcabral.youcanbook.me/). I typically try to meet with students 3 times during the course (as appropriate).  
-  
-During our meetings, I will assess your progress in the class. At Weeks 11 & 12, you will be formally assessed with a Career Development Panel Assessment (Mock Interview) in front of the class. In addition, you will also be assessed in a separate panel interview by members of our Technical Instruction team.  
+After our initial meeting, you can schedule a One-on-One with me directly via this [link](https://gcabral.youcanbook.me/). I typically try to meet with students 2-3 times during the course (as appropriate).  
 
 ---
 ## ACCOUNTS
@@ -82,7 +80,8 @@ MeetUp lists events, workshops and other gatherings by interest. This is a great
 [How To Create A Job Search Plan (Career One Stop)](https://www.careeronestop.org/JobSearch/Plan/create-a-job-search-plan.aspx)
   
 [Job Search Stuck in Neutral? Try Something Radical!](https://www.linkedin.com/pulse/20131206074354-52594-job-search-stuck-in-neutral-try-something-radical/)
-
+  
+[12 Things You Must Do to Land a Junior Web Developer Job](https://skillcrush.com/2015/04/09/land-junior-web-developer-job/)
 ***  
 Below are the topics we will cover in class. While we try to go in order, due to scheduling changes and class progress, we may cover one topic across several sessions. 
   
